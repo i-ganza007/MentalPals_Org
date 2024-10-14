@@ -1,4 +1,0 @@
-pwd:'ribuyu11@CSA'
-username:'ianganza4'
-mongoString:mongodb+srv://ianganza4:<db_password>@cluster0.xat2t.mongodb.net/
-MONGO_PWD = 'ribuyu11@CSA'
